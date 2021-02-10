@@ -1,0 +1,94 @@
+{
+  "initialPosition": {
+    "x": 0,
+    "y": 0
+  },
+  "movements": 20,
+  "grid": [
+    [
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      }
+    ],
+    [
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      }
+    ],
+    [
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      }
+    ],
+    [
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      }
+    ],
+    [
+      {
+        "type": "regular"
+      },
+      {
+        "type": "regular"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "walkable"
+      },
+      {
+        "type": "finish"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+.tile {
+  &.regular {
+    background: gray;
+  }
+
+  &.walkable {
+    background: white;
+  }
+
+  &.finish {
+    background: green;
+  }
+}

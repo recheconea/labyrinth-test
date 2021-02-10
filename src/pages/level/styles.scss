@@ -1,0 +1,14 @@
+.level {
+  width: 500px;
+  height: 500px;
+  background: gray;
+  .row {
+    height: 33%;
+    display: flex;
+  }
+  .tile {
+    width: 33%;
+    height: 100%;
+    border: 1px solid white;
+  }
+}
